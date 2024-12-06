@@ -1,3 +1,3 @@
 # Firstdemo
-this is my first git repository
-Author=pranali lavate
+this is my first git repository.
+Author-pranali lavate
